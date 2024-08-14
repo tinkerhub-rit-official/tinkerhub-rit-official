@@ -1,4 +1,4 @@
-<img src="./assets/logo.png" width="100%" alt="Tinkerhub RIT logo" style="background: white; border-radius: 5px">
+<img src="./assets/tinkerhub-rit-logo.png" width="100%" alt="Tinkerhub RIT logo" style="background: white; border-radius: 5px">
 
 # TinkerHub RIT
 Welcome to the official GitHub profile of TinkerHub RIT Kottayam! 🚀
